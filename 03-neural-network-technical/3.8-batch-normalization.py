@@ -1,0 +1,1 @@
+# https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/3-08-batch-normalization/
